@@ -1,6 +1,6 @@
 # README #
 
-This is a test Bitbucket project for GitHub Q1.
+This is a test Bitbucket project for GitHub Q1 and Q3.
 
 ### What is this repository for? ###
 
